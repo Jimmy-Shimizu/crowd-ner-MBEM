@@ -1,0 +1,1 @@
+from .taggers.lample_lstm_tagger import *
